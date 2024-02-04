@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riteshrhkr
 - 👀 I’m interested in  Java Developer, Java full stack developer
-- 🌱 My skills are:- C, C++, Java, MySQL, Servlet, Jsp, Hibernate, Html, CSS and JavaScript
+- 🌱 My skills are:- Java, MySQL, Jakarta EE, Spring MVC, Spring Boot, Hibernate/JPA
 - 💞️ I’m looking to collaborate on develop new Web Application, help to develope new technologies and help other team meamber
 - 📫 I am from India, Gurugron
 - My mob no. :- 9142433432
