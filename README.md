@@ -21,7 +21,7 @@ I'm Ritesh Kumar, a passionate Java web developer based in Bihar Sharif, Nalanda
 I have a 6-month work-from-home internship experience at SKITCH, where I honed my skills and contributed to various projects.
 
 #### Let's Connect! 🌐
-- LinkedIn: linkedin.com/in/riteshrhkr
+- LinkedIn: https://www.linkedin.com/in/riteshrhkr
 - Hacker Rank : https://www.hackerrank.com/profile/ritesh15022003
 
 Feel free to explore my GitHub repositories and reach out for collaboration or discussions!
