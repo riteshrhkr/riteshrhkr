@@ -1,31 +1,56 @@
-### Hi there! 👋
+# 👨‍💻 Backend Developer | Java | Spring Boot | Microservices
 
-Java Developer specializing in web development with expertise in Java, Spring frameworks, and front-end technologies. 
-Proven track record in implementing secure and scalable solutions. Committed to
-continuous learning and contributing to dynamic IT environments.
+## 🚀 About Me
+Backend Developer with hands-on experience in building scalable, secure, and high-performance applications using Java and Spring Boot. Strong focus on microservices architecture, API optimization, and real-time systems.
 
-### Contacts
-- Email : rhkr1502@gmail.com
-- Mob : +91 9142433432
+---
 
-#### Education 📚
-- Matriculation: State Board (74%)
-- Intermediate: State Board (87%)
-- Graduation: BCA (67%)
+## 🛠️ Tech Stack
+- **Languages:** Java  
+- **Frameworks:** Spring Boot, Spring MVC, Spring Security  
+- **Architecture:** Microservices, REST APIs  
+- **Databases:** MySQL, MongoDB  
+- **Messaging:** Kafka, RabbitMQ  
+- **Caching:** Redis  
+- **Tools:** Docker, Jenkins, GitHub, SonarQube  
+- **Cloud:** AWS  
 
-#### Skills 💻
-- Programming Languages: C, C++, Java
-- Java Technologies: Java Swing, JDBC, Servlet, JSP, Spring, Spring MVC, Spring Boot, Hibernate/JPA, Microservices
-- Web Technologies: HTML, CSS, JavaScript
-- Database: MYSQL
+---
 
-#### Experience 🚀
-I have a 6-month internship experience at SKITCH, where I honed my skills and contributed to various projects. My responsibilities are create RestAPI, Controller, Services using sprng Boot, manage data using MySQL and Hibernate and create front-end using JSP, HTML, CSS, JavaScript, JQuery. It was a fantastic journey working with other in a team. 
+## 💼 What I Do
+- Develop secure and scalable REST APIs  
+- Optimize performance (caching, pagination, query tuning)  
+- Implement authentication & authorization (JWT, OAuth2)  
+- Build real-time applications using WebSockets & Kafka  
+- Work with API Gateway (Spring Cloud Gateway, Zuul)  
+- Ensure code quality via reviews and SonarQube  
+- Handle deployments using CI/CD pipelines (Jenkins)  
 
-#### Let's Connect! 🌐
-- LinkedIn: https://www.linkedin.com/in/riteshrhkr
-- Hacker Rank : https://www.hackerrank.com/profile/ritesh15022003
+---
 
-Feel free to explore my GitHub repositories and reach out for collaboration or discussions!
+## 📂 Projects
 
-Happy Coding! 🚀
+### 🔹 Oodles Dashboard (ERP System)
+- Microservices-based ERP with 8+ services  
+- Built using Spring Boot, Hibernate, MySQL  
+- API Gateway with RBAC & session management  
+- Integrated Google APIs & GitHub  
+- Deployed on AWS with Jenkins CI/CD  
+
+### 🔹 Communication Scaffold (Chat App)
+- Real-time chat using WebSockets & Kafka  
+- MongoDB for storage, Redis for caching  
+- Features: 1-1 & group chat, notifications, message replay  
+
+---
+
+## 📈 Highlights
+- Improved API performance by **40%**  
+- Migrated applications from Java 8 → Java 17  
+- Implemented circuit breakers & fault tolerance  
+
+---
+
+## 🤝 Let's Connect
+- LinkedIn: *https://linkedin.com/in/riteshrhkr*
+- Email: *rhkr1502@gmail.com*
